@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "3.4 Birthday Invite Project",
+			"path": "../Coding with Angela Yu/3.4 Birthday Invite Project"
+		},
+		{
+			"name": "first_udemy_project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "first_udemy_project",
+		"liveServer.settings.port": 5501
+	}
+}
